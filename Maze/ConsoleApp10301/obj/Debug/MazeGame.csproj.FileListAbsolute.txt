@@ -1,0 +1,14 @@
+C:\Users\tory\Desktop\Maze\ConsoleApp10301\obj\Debug\MazeGame.csprojAssemblyReference.cache
+C:\Users\tory\Desktop\Maze\ConsoleApp10301\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\tory\Desktop\Maze\ConsoleApp10301\obj\Debug\ConsoleApp10301.exe
+C:\Users\tory\Desktop\Maze\ConsoleApp10301\obj\Debug\ConsoleApp10301.pdb
+C:\Users\tory\Desktop\Maze\ConsoleApp10301\bin\Debug\ConsoleApp10301.exe.config
+C:\Users\tory\Desktop\Maze\ConsoleApp10301\bin\Debug\ConsoleApp10301.exe
+C:\Users\tory\Desktop\Maze\ConsoleApp10301\bin\Debug\ConsoleApp10301.pdb
+C:\Users\ATENTS\Desktop\Maze\ConsoleApp10301\bin\Debug\ConsoleApp10301.exe.config
+C:\Users\ATENTS\Desktop\Maze\ConsoleApp10301\bin\Debug\ConsoleApp10301.exe
+C:\Users\ATENTS\Desktop\Maze\ConsoleApp10301\bin\Debug\ConsoleApp10301.pdb
+C:\Users\ATENTS\Desktop\Maze\ConsoleApp10301\obj\Debug\MazeGame.csprojAssemblyReference.cache
+C:\Users\ATENTS\Desktop\Maze\ConsoleApp10301\obj\Debug\MazeGame.csproj.CoreCompileInputs.cache
+C:\Users\ATENTS\Desktop\Maze\ConsoleApp10301\obj\Debug\ConsoleApp10301.exe
+C:\Users\ATENTS\Desktop\Maze\ConsoleApp10301\obj\Debug\ConsoleApp10301.pdb
